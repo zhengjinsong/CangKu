@@ -3,4 +3,8 @@ dev创建文件
 s
 dddd:wq:
 sdsssds
+<<<<<<< HEAD
 ssd
+=======
+zhengjinsogn
+>>>>>>> bb6f83c831c94799f0dfc17300b08334ceb493cb
